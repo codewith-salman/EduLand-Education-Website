@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-<img src="EduLand%20Education%20Website/assets/images/project-logo.png" alt="Eduland Logo" width="300"/>
+<img src="EduLand%20Education%20Website/assets/images/project-logo.png" alt="Eduland Logo" width="100"/>
 
 ## 🎓 Eduland – Education Landing Page
 A modern and fully responsive **Education Landing Page** designed to promote online learning, courses, and academic platforms with a clean and engaging layout.  
