@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/edu-land-education-website)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/edu-land-education-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/edu-land-education-website?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/eduland-education-website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/eduland-education-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/eduland-education-website?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://edu-land-education-website.vercel.app/)
 
@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="EduLand%20Education%20Website/assets/images/project-logo.png" alt="Eduland Logo" width="200"/>
+<img src="EduLand%20Education%20Website/assets/images/logo.svg" alt="Eduland Logo" width="200"/>
 
 <br />
 <br />
