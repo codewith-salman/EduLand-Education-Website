@@ -71,8 +71,6 @@ Ideal for:
 - Academic programs and training platforms
 - Front-end UI and responsive design practice
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -86,8 +84,6 @@ Ideal for:
 - Interactive and engaging layout
 - Lightweight and easy to customize
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -97,8 +93,6 @@ This project is built using:
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
