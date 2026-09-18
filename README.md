@@ -3,42 +3,111 @@
 <br />
 <div align="center">
 
-<img src="EduLand%20Education%20Website/assets/images/project-logo.png" alt="Eduland Logo" width="200"/>
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/edu-land-education-website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/edu-land-education-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/edu-land-education-website?style=social)
 
-## 🎓 Eduland – Education Landing Page
-A modern and fully responsive **Education Landing Page** designed to promote online learning, courses, and academic platforms with a clean and engaging layout.  
-Completely responsive across all screen sizes, built with simplicity, usability, and visual appeal in mind.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://edu-land-education-website.vercel.app/)
 
-</div>
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
 
-<!-- ABOUT THE PROJECT -->
+<!-- 🔰 PROJECT LOGO -->
+<img src="EduLand%20Education%20Website/assets/images/project-logo.png" alt="Eduland Logo" width="200"/>
+
+<br />
+<br />
+
+<h1 align="center">🎓 Eduland – Education Landing Page</h1>
+
+A modern, engaging, and fully responsive **Education Landing Page**  
+built using **HTML, CSS, and JavaScript**.
+
+<a href="https://edu-land-education-website.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+---
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
 ## 📖 About The Project
 
 <img src="EduLand%20Education%20Website/assets/images/desktop.png" alt="Eduland Desktop Screenshot" width="100%" />
 
-**Eduland** is an elegant and user-friendly educational landing page created to highlight **learning programs**, **course offerings**, and **student engagement**.  
-It’s perfect for universities, e-learning platforms, or any educational institution seeking a strong online presence.  
-With its **responsive structure**, **interactive layout**, and **modern typography**, it offers a seamless learning-focused design experience.
+**Eduland** is a modern and responsive educational landing page designed to showcase learning programs, courses, and academic opportunities in a clean and engaging interface.
 
+The layout focuses on:
+
+- Clean and learning-focused visual design
+- Clear presentation of educational content
+- Modern typography and balanced spacing
+- Responsive layouts across different screen sizes
+- Interactive and user-friendly sections
+
+This project demonstrates the ability to build **modern education-focused websites**, create engaging landing pages, and deliver responsive interfaces with a strong focus on usability and visual appeal.
+
+Ideal for:
+
+- Universities and educational institutions
+- Online learning platforms
+- E-learning and course websites
+- Academic programs and training platforms
+- Front-end UI and responsive design practice
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
-### 🛠️ Built With
+## ✨ Features
 
-The project was built using the following technologies:
+- Fully responsive education landing page
+- Clean and modern user interface
+- Learning-focused visual design
+- Course and educational content sections
+- Modern typography and spacing
+- Smooth hover and transition effects
+- Interactive and engaging layout
+- Lightweight and easy to customize
 
-* [HTML5](https://html5.org/)
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+---
+
+## 🛠️ Built With
+
+This project is built using:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## 📬 Contact
 
-**LinkedIn** – [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-**Email** – [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
